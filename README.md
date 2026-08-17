@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/36170b05-0a51-4006-ad47-b891847c5589" />
 
 
 
@@ -77,12 +78,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
+<img width="1082" height="550" alt="WhatsApp Image 2026-08-17 at 10 25 00 AM" src="https://github.com/user-attachments/assets/baa1a159-1bee-48ea-af40-218ab309475e" />
 
 # ACTIVITY DIAGRAM:
 
@@ -97,6 +93,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/aae2202c-fce8-47eb-a401-0124ee54d621" />
 
 
 
@@ -105,7 +102,6 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
-
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -118,8 +114,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/170a1803-06e0-4d1a-9b55-444341b9128d" />
 
 
 # RESULT
